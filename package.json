@@ -1,0 +1,16 @@
+{
+  "name": "find-pi-cli",
+  "version": "1.0.0",
+  "description": "asd",
+  "main": "cli.js",
+  "repository": "https://github.com/dreamorosi/find-pi-cli",
+  "author": "Andrea Amorosi <dreamorosi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "find-pi": "^1.0.0",
+    "meow": "^3.7.0"
+  },
+  "bin": {
+    "find-pi": "./cli.js"
+  }
+}
